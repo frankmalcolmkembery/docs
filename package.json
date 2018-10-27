@@ -22,7 +22,7 @@
     "aws-sdk": "^2.1.17",
     "bl": "^0.9.4",
     "brick-router": "^2.0.1",
-    "browserify": "^9.0.8",
+    "browserify": "^12.0.0",
     "cliclopts": "^1.1.0",
     "css-wipe": "^1.0.1",
     "custom-element": "^2.0.0",
