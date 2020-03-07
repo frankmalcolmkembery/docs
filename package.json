@@ -22,7 +22,7 @@
     "aws-sdk": "^2.1.17",
     "bl": "^0.9.4",
     "brick-router": "^2.0.1",
-    "browserify": "^9.0.8",
+    "browserify": "^15.0.0",
     "cliclopts": "^1.1.0",
     "css-wipe": "^1.0.1",
     "custom-element": "^2.0.0",
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "brfs": "^1.4.0",
-    "browserify": "^6.1.0",
+    "browserify": "^15.0.0",
     "bulk": "^2.0.0-alpha-0",
     "check-pages": "^0.9",
     "connect": "^3.4",
