@@ -38,7 +38,7 @@
     "slugificate": "^0.2.1",
     "split": "^0.3.3",
     "through2": "^0.6.3",
-    "watchify": "^3.1.2",
+    "watchify": "^4.0.0",
     "webcomponents.js": "^0.6.0"
   },
   "devDependencies": {
@@ -76,6 +76,6 @@
     "tape": "^4.0.0",
     "vinyl-source-stream": "^1.0.0",
     "walk": "^2",
-    "watchify": "^3.1.1"
+    "watchify": "^4.0.0"
   }
 }
